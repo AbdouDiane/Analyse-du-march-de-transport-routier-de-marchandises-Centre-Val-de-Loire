@@ -1,7 +1,7 @@
 # Analyse du marché du transport de marchandises en Centre-Val de Loire
 Cette application a été développée avec Streamlit et constitue mon premier projet d’analyse de données. Elle vise à explorer le marché du transport de marchandises en région Centre-Val de Loire en mettant en lumière :
 - Les acteurs clés du secteur, accessibles via la page **Entreprises de transport de marchandises**
-- Les clients potentiels, disponibles dans le page **Entreprises sollicitant le transport**
+- Les clients potentiels, disponibles dans la page **Entreprises sollicitant le transport**
 - Les types de marchandises transportées, consultables dans la page **Marchandises**
   
 ## Fonctionnalités principales 📌
@@ -42,15 +42,16 @@ Cette application a été développée avec Streamlit et constitue mon premier p
 - Graphique mettant en avant les régions partenaires principales du Centre-Val de Loire
 ![Top 5 région partenaires](https://github.com/AbdouDiane/Analyse-du-march-de-transport-routier-de-marchandises-Centre-Val-de-Loire/blob/master/Top%205%20r%C3%A9gions%20partenaires.png)
 
+**Voici le lien vers l'application: https://marchandisesregioncentre-nlyikhtnwhn9pbyqgeyquh.streamlit.app/**
 
-📊 Sources de données
+📊 **Sources de données**
 
-📌 Database Centre-Val de Loire
+📌 Database Centre-Val de Loire : https://data.centrevaldeloire.fr/explore/?disjunctive.features&disjunctive.publisher&disjunctive.keyword&disjunctive.theme&sort=explore.popularity_score
 
-📌 Flux de marchandises
+📌 Flux de marchandises : https://www.ecologie.gouv.fr/politiques-publiques/donnees-nationales-flux-marchandises
 
-📌 Données emploi – France Travail
+📌 Données emploi – France Travail : https://dataemploi.francetravail.fr/emploi/secteur/chiffres-cles/REG/24/NAF88/52?codeTypeTerritoireC=NAT&codeTerritoireC=FR
 
-🛠️ Technologies utilisées
+🛠️ **Technologies utilisées**
 - Langage : Python 🐍
 - Framework : Streamlit 🚀
