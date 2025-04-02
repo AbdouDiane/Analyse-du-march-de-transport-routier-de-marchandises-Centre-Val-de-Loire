@@ -14,3 +14,9 @@ Cette application a été développée avec Streamlit et constitue mon premier p
 
 <a href="https://github.com/AbdouDiane/Analyse-du-march-de-transport-routier-de-marchandises-Centre-Val-de-Loire/blob/master/Nombre%20de%20cr%C3%A9ation%20d'entreprises.png">Nombre de création d'entreprises<a/>
 ![Nombre de création d'entreprise](https://github.com/AbdouDiane/Analyse-du-march-de-transport-routier-de-marchandises-Centre-Val-de-Loire/blob/master/Nombre%20de%20cr%C3%A9ation%20d'entreprises.png)
+![Nombre de sièges et Parts des embauches](https://github.com/AbdouDiane/Analyse-du-march-de-transport-routier-de-marchandises-Centre-Val-de-Loire/blob/master/Nombre%20de%20si%C3%A8ge%20et%20Parts%20des%20embauches.png)
+![Carte de localisation des entreprises]()
+![Type de marchandises]()
+![Volume de marchandises]()
+![Taux d'évolution sur 8 ans]()
+![Top 5 région partenaires]()
